@@ -10,9 +10,9 @@
 * [Contact](#Contact)
 
 ## General Information
-The following visualiztion looks at the CitiBike Trip History logs for 2019 in New York City. 
+The following visualization looks at the CitiBike Trip History logs for 2019 in New York City. 
 
-The visuals check:
+The visuals look at:
 - The usage of bikes across all the station of the city to find out the most popular stations where most bikes have been rented as well as the stations where bikes are rented for the longest duration.
 - The age ranges of riders to identify which age groups rent the most number of bikes as well as the age group that rent bikes for the longest time.
 - The difference, if any, in the number of bikes rented by male vs female riders. As well as the gender that rents bikes for the longest time.
