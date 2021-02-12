@@ -26,6 +26,32 @@ Collated Citibike usage data for 2019
 The majority of long duration rides originate from the Brooklyn borough.
 ![TopStations](images/TopStations.png)
 
+### Age Range of Riders
+**Finding:** The least number of riders are in the  below 20 age group, but they ride for a longer duration on average. The most number of riders are in the 20-40 age group.
+**Opportunity:** Introduce a school/college-friendly marketing campaign targetted at the below 20 age group to increase their usage.
+During the winter months, the number of riders decreases. Introduce a promotion to encourage more riders during the colder months and a summer promotion to encourage longer use of bikes.
+![RidersByAge](images/RidersByAge.png)
+
+### Riders By Gender
+**Finding:** There are more male riders than female riders, though males and females ride for almost the same time across the age groups.
+**Opportunity:** Introduce a marketing strategy to increase adoption by female riders.
+![RidersByGender](images/RidersByGender.png)
+
+### Riders By User Type
+**Finding:** Throughout the year more subscribers use bikes than customers. However, customers use bikes for a longer period of time.
+The largest group of subscribers are in the 30-39 age group. The largest group of customers are in the 50-59 age group.
+**Opportunity:** Target customers to increase bike usage and subscribers to use bikes for longer.
+![RidersbyUsertype](images/RidersbyUsertype.png)
+
+### Popular Hours of the Day
+**Finding:** More people use bikes during peak office hours. However, bikes are used for a longer period in the early hours of the day.
+**Opportunity:** Introduce a promotion for off-peak hours to increase the number of riders.
+![PopularHours](images/PopularHours.png)
+
+### Popular Day of the Week
+**Finding:** Weekends have less riders than weekdays. However, the weekend rider uses the bikes for a longer time.
+**Opportunity:** Weekend riders are possibly tourists. Introduce a tourist promotion to increase ridership during the week.
+![PopularDayofWeek](images/PopularDayofWeek.png)
 
 ## Technologies
 * Python
