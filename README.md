@@ -24,7 +24,7 @@ Collated Citibike usage data for 2019
 ### Top Stations
 **Finding:** The majority of the top bike stations are in the central Manhattan area.  The 2 most popular stations are 'Pershing Square North' and '8 Ave & W 31 ST'. It is notable that they are situated close to major train stations: Grand Central Terminal and Penn Station respectively. 
 The majority of long duration rides originate from the Brooklyn borough.
-[Top Stations](images/TopStations.png)
+![TopStations](images/TopStations.png)
 
 
 ## Technologies
