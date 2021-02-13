@@ -19,6 +19,10 @@ The visuals look at:
 - The most popular hours of the day to rent bikes as well as the times when bikes are rented for the longest time.
 - The most popular days of the week to rent bikes as well as the days when bikes are rented for the longest time.
 
+Notes: 
+- Ages upto 100 only were considered in he dataset.
+- Only Male and Female was included in gender.
+
 ## Tableau Visualization
 [Citi Bike Analysis](https://public.tableau.com/views/CitiBike_16130842989820/CitiBike?:language=en&:display_count=y&publish=yes&:origin=viz_share_link)
 
