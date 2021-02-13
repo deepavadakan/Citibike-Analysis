@@ -20,7 +20,7 @@ The visuals look at:
 - The most popular days of the week to rent bikes as well as the days when bikes are rented for the longest time.
 
 Notes: 
-- Ages upto 100 only were considered in he dataset.
+- Ages up to 100 only were considered in the dataset.
 - Only Male and Female was included in gender.
 
 ## Tableau Visualization
