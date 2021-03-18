@@ -1,10 +1,11 @@
-# tableau-challenge
+# Citibike Analysis
 
 >  Build a tableau visualization to identify unexpected phenomena in CitiBike usage.
 
 ## Table of contents
 * [Tableau Visualization](#Tableau-Visualization)
 * [Data Sources](#data-sources)
+* [Data Processing](#data-processing)
 * [Analysis](#Analysis)
 * [Technologies](#technologies)
 * [Contact](#Contact)
@@ -31,6 +32,16 @@ Please use full screen mode for optimal viewing.
 ## Data Sources
 [Citi Bike Data](https://www.citibikenyc.com/system-data)
 Collated Citibike usage data for 2019
+
+## Data Processing
+
+- Downloaded all Citibike logs for 2019 for New York City and concetenated all the csvs into one dataframe.
+- Converted date columns to datetime objects
+- Grouped data by month and station ID to get the top 10 stations.
+- Created bins for ages [10, 19, 29, 39, 49, 59, 69, 100] and grouped the data by month, age ranges, gender and user type to find the number of riders for each group and average trip duration.
+- Grouped data by month and hour
+- Grouped data by month and day of week
+- Created csvs for all the above aggregations and used that for the tableau visualization.
 
 ## Analysis
 
